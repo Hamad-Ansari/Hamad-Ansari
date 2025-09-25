@@ -26,26 +26,29 @@ I’m passionate about turning raw data into meaningful insights and building in
 - Cleaned & analyzed cricket datasets  
 - Built interactive dashboards with **Plotly & Power BI**  
 - Insights into batting, bowling, and match summaries  
-🔗 [View Project](https://github.com/yourusername/sports-data-analysis)
+🔗 [View Project](https://www.kaggle.com/code/hammadansari7/psl-10-first-match-ipynb/notebook)
+
 ### 🤖 AI Chatbot (RAG Model)  
 - Built a Q&A chatbot using HuggingFace embeddings  
 - Implemented Retrieval-Augmented Generation (RAG)  
 - Deployed on Hugging Face Spaces  
-🔗 [View Project](https://github.com/yourusername/ai-chatbot)
+🔗 [View Project](mrhammad12/pakalign-chatbot)
+
 ### 📊 Internship Salary Analysis (Pakistan)  
 - Analyzed internship salary ranges for Data Analysis roles  
 - Used Pandas, Matplotlib & Seaborn for insights  
 - Created Power BI dashboard for visualization  
-🔗 [View Project](https://github.com/yourusername/salary-analysis)
+🔗 [View Project](https://www.kaggle.com/code/hammadansari7/data-project)
+
 ### 🧠 Machine Learning Models  
 - Built predictive models (Linear Regression, Decision Trees, Random Forests)  
 - Applied on datasets (housing prices, student scores, sports data)  
 - Compared models & performance metrics (MSE, Accuracy, F1-score)  
-🔗 [View Project](https://github.com/yourusername/ml-models)
-
-- [Sports Data Analysis](https://github.com/yourusername/sports-data-analysis) – Data cleaning, analysis & dashboards.  
-- [AI Chatbot](https://github.com/yourusername/ai-chatbot) – RAG chatbot using HuggingFace.  
-- [Power BI Dashboard](https://github.com/yourusername/powerbi-dashboard) – Interactive sales insights.
+🔗 [View Project_Streamlit](https://mlbrowser-n7q74dsixmqq8fbz9fbbnt.streamlit.app/)
+🔗[Machine-Learning-Playground](https://machine-learning-playground-ubseqnkabcqjkvk7zc8a4b.streamlit.app/)
+🔗[ML_Webapp](https://mlwebapp-4lnjzg3uu5fjtihzpcwoys.streamlit.app/)
+🔗[-Visualizing-Data-with-Seaborn-Matplotlib]()
+DataAnalysis
 
 - ## 📫 Connect with me:
 - [LinkedIn](www.linkedin.com/in/hammad-zahid-xyz)
