@@ -1,11 +1,5 @@
 # Hi there 👋, I'm Hammad  
 
-<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/17d69e82-ec30-40aa-8544-1ba5d918f8d7" />
-
-
-
-
-
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966](https://github.com/user-attachments/assets/f3a42195-8f81-4502-af67-c8c3a081506b)
 
 
@@ -13,7 +7,11 @@
 
 I’m passionate about turning raw data into meaningful insights and building intelligent models that solve real-world problems.  
 
-## 🚀 Skills
+
+ python pytorch scikit_learn seaborn tensorflow 
+
+## 🚀 Skill
+s
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn,seaborn ,tensorflow,Keras,NLTK)  
 - Data Analysis & Visualization (Power BI, Tableau, Plotly)  
 - Machine Learning & AI
