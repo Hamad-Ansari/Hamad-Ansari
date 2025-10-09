@@ -8,7 +8,6 @@
 I’m passionate about turning raw data into meaningful insights and building intelligent models that solve real-world problems.  
 
 
- python pytorch scikit_learn seaborn tensorflow 
 
 ## 🚀 Skill
 s
