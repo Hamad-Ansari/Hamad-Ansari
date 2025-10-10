@@ -10,11 +10,11 @@ I’m passionate about turning raw data into meaningful insights and building in
 
 
 ## 🚀 Skill
-s
+
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn,seaborn ,tensorflow,Keras,NLTK)  
 - Data Analysis & Visualization (Power BI, Tableau, Plotly)  
 - Machine Learning & AI
-- - Jupyter Notebooks | Google Colab
+- Jupyter Notebooks | Google Colab
 **Machine Learning**  
 - Supervised & Unsupervised Learning  
 - Regression, Classification, Clustering  
