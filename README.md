@@ -60,9 +60,9 @@ DataAnalysis
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h_a_m_m_a_d_ansari) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@photographicmemory01)
 [![linkedin](https://img.shields.io/badge/linkedin-%23000000.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-zahid-xyz)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrhammadzahid24@gmail.com) 
 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrhammadzahid24@gmail.com) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]
 - ## 📫 Connect with me:
 - [LinkedIn](www.linkedin.com/in/hammad-zahid-xyz)
 - [Facebook](https://www.facebook.com/hammad.zahid.9484)
